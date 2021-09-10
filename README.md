@@ -1,2 +1,2 @@
 
-# Stock-Messenger-Bo
+# Stock-Messenger-Bot
